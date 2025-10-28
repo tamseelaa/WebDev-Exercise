@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.greeting {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
