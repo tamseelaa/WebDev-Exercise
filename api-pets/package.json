@@ -1,0 +1,29 @@
+{
+  "name": "demo-dog-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tx00-resources-en/api-pets.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tx00-resources-en/api-pets/issues"
+  },
+  "homepage": "https://github.com/tx00-resources-en/api-pets#readme"
+}
